@@ -1,10 +1,7 @@
-# Blog
+# 小羊写博客的地方
 
+用Hexo在GitHub搭建的博客，用于记录一些有意思的算法题和计算机学科中的知识。偶尔会记录趟坑过程供自己参考。
 
+最近会备份论文和文章。
 
-
-用途：记录趟坑。由于挖坑实在太多，每日处理坑的数量和深度超过了我的想象。因此记录很有必要。所以这不是给别人看的，纯粹是为了自己。
-
-
-
-学业繁忙，告辞！
+主题是[GitHub - jerryc127/hexo-theme-butterfly: 🦋 A Hexo Theme: Butterfly](https://github.com/jerryc127/hexo-theme-butterfly)
